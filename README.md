@@ -1,7 +1,8 @@
 # My project in Sirius 2019
 
-Created by Unity personal edition
-Scripts written in C# using JetBrains Rider
+>Created by Unity personal edition
+
+>Scripts written in C# using JetBrains Rider
 
 It is a mobile application
 
@@ -16,4 +17,5 @@ Kozlov Timofey -- android developer
 Mozganov Nickolay -- made the analysis and data collection
 
 Dazhuk Andrey -- Engaged in the assembly of the prototype
+
 Uyangulov Kirill -- arduino programmer
