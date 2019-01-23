@@ -9,4 +9,4 @@ If your have a our product, you should to install this app to your android devic
 
 Our project team
 
-#Kozlov Timofey -- android developer
+# Kozlov Timofey -- android developer
