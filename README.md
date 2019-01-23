@@ -16,5 +16,4 @@ Kozlov Timofey -- android developer
 Mozganov Nickolay -- made the analysis and data collection
 
 Dazhuk Andrey -- Engaged in the assembly of the prototype
-
 Uyangulov Kirill -- arduino programmer
