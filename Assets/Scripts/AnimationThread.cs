@@ -1,6 +1,5 @@
 using System.Threading;
 
-
 public static class AnimationThread
 {
     private static readonly Thread AnimationThr;
